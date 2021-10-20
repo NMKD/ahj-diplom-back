@@ -97,4 +97,4 @@ wsServer.on('connection', (ws) => {
   });
 });
 
-server.listen(port, () => console.log('Server started'));
+server.listen(port, () => console.log('Server started!'));
