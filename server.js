@@ -61,7 +61,7 @@ const category = {
     { name: 'http://vk.com', messageId: '29a86030-d83c-11eb-9a19-87bef25338c3' },
   ],
   image: [
-    { name: 'dog.jpg', messageId: 'd4bb4b20-da82-11eb-9154-2d8ca54d4d13' },
+    { name: 'dog.jpeg', messageId: 'd4bb4b20-da82-11eb-9154-2d8ca54d4d13' },
   ],
   video: [
     { name: 'nightcats.mp4', messageId: '128' },
